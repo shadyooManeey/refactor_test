@@ -65,3 +65,5 @@ s
 Csrc/test/java/com/nimbleways/springboilerplate/utils/TestUtils.java,a\9\a951c1579ae4f3a101e0f7eac124d001e8cc8dc4
 è
 _src/test/java/com/nimbleways/springboilerplate/services/implementations/ProductServiceTest.java,5\f\5fe8ae1dcff422bb3c1c95de369e498dc72dec93
+å
+\src/test/java/com/nimbleways/springboilerplate/controllers/MyControllerIntegrationTests.java,c\9\c918572913ed5c3a7c38383b0a9790a478009acc
